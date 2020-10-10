@@ -1,0 +1,10 @@
+.DescriptionWrapper {
+    color: #333333;
+    font-size: 1.875rem;
+    letter-spacing: +.5px;
+    margin: .5rem 0;
+}
+.Description {
+    color: #333333;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,11 @@
+.DateWrapper {
+  color: black;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  background-color: powderblue;
+  box-shadow: 2px 2px 2px grey;
+  /* color: white; */
+  border-radius: 30px;
+  padding: 5px;
+}
